@@ -15,8 +15,5 @@ def model2():
     def model3():
     print('m3')
 
-print('TATA')
+print('m2 is best')
 
-print('BYE')
-
-print('new bye')
